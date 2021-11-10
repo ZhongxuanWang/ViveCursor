@@ -1,0 +1,8 @@
+pip
+setuptools
+pynput
+numpy
+imutils
+pyautogui
+opencv-python
+dlib
